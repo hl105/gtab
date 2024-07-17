@@ -1,0 +1,349 @@
+
+2024-07-17 09:34:25.579669
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:34:48.421729
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:35:11.213590
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:35:29.970952
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:35:52.831729
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:36:15.551943
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:36:38.248219
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:37:01.212567
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:37:23.899535
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:37:46.498719
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:38:09.244669
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:38:32.082739
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:38:54.819500
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:39:17.546500
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:39:40.266460
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:40:02.955170
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:40:25.685645
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:40:48.406233
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:41:11.062312
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:41:33.726047
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:41:56.492507
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:42:19.316923
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:42:42.114566
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:43:04.914048
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:43:27.676747
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:43:50.414397
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:44:13.797867
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:44:36.577921
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:44:59.312199
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:45:22.197286
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:45:44.866181
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:46:07.613267
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:46:30.237785
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:46:53.071879
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:47:15.850376
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:47:38.655329
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:48:02.068650
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:48:24.753462
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:48:47.527449
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:49:10.372072
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:49:33.100790
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:49:55.798186
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:50:18.481856
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:50:41.057349
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:51:03.811104
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:51:26.594339
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:51:50.241481
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:52:12.928288
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:52:35.547820
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-17 09:52:58.337621
+Start AnchorBank init for region US in timeframe 2024-06-27 2024-07-17...
+Full option parameters are: {'BLACKLIST': ['/m/0bcgdv', '/m/04ppcm', '/m/047p8qy'], 'CONN': {'backoff_factor': 0.1, 'proxies': [], 'retries': 5, 'timeout': (25, 25)}, 'GTAB': {'anchor_candidates_file': 'anchor_candidate_list.txt', 'num_anchor_candidates': 3500, 'num_anchors': 550, 'seed': 42, 'sleep': 0.5, 'thresh_offline': 10}, 'HITRAFFIC': ['/m/045c7b', 'Google', '/m/02y1vz', 'Facebook', '/m/09jcvs', 'Youtube', '/m/0glpjll', 'Instagram', '/m/0mgkg', 'Amazon', '/m/017rf_', 'Netflix', '/m/019rl6', '/m/0289n8t', '/m/0d07ph', '/m/0b2334', '/m/03vgrr', '/m/010qmszp'], 'PYTRENDS': {'geo': 'US', 'timeframe': '2024-06-27 2024-07-17', 'cat': '0'}}
+Loading previously checked keywords from june_current_us/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-27 2024-07-17.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
