@@ -7,10 +7,6 @@ import random
 import core_initial
 import datetime
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[
-logging.FileHandler("gtab_log.log"),
-])
-
 def main(t, queryList, date, retry):
     """Gets calibrated google trends information per query using the 
     appropriate anchorbank that was set active above."""
@@ -64,11 +60,6 @@ def main(t, queryList, date, retry):
                             writer = csv.DictWriter(f, ["query"])
                             writer.writerow({'query': query})
                 except Exception as e: #'bad query' exception (not enough google trends data)
-                    count+=1
-                    if count==5: # if we run into a request error 5 times in a row
-                        logging.warning("ran into request error, sleeping...zzz...")
-                        time.sleep(7200*3)
-                        count=0
                     logging.info(f"Outer exception: {e}")
                     time.sleep(random.randint(10,20))
                     break

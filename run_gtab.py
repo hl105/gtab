@@ -11,11 +11,11 @@ logging.FileHandler("gtab_log.log"),
 ])
 
 if __name__ == "__main__":
-    my_path = "june_current_us"
+    my_path = "summer"
     logging.info("loading core...takes a moment")
     t = core_initial.GTAB(dir_path=my_path)
     date = datetime.date(2024, 7, 14)
-    week_ago = date - datetime.timedelta(days=7)
+    week_ago = date - datetime.timedelta(days=30)
     date_md = date.strftime('%m-%d')
 
 
@@ -26,16 +26,18 @@ if __name__ == "__main__":
     anchorbank.main(week_ago, date)
     t.set_active_gtab(f"google_anchorbank_geo=US_timeframe={week_ago} {date}.tsv")
 
-    for root, dir, files in os.walk('queries'):
-        logging.info("getting queries to search...")
-        df = pd.DataFrame()
-        for file in files:
-            if f'@{date_md}' in file:
-                filepath = os.path.join(root,file)
-                temp_df = pd.read_csv(filepath)
-                df = pd.concat([df, temp_df])
-    df.to_csv(f'{date}_gtab/{date}_aggregatedDf.csv')
+    # for root, dir, files in os.walk('queries'):
+    #     logging.info("getting queries to search...")
+    #     df = pd.DataFrame()
+    #     for file in files:
+    #         if f'@{date_md}' in file:
+    #             filepath = os.path.join(root,file)
+    #             temp_df = pd.read_csv(filepath)
+    #             df = pd.concat([df, temp_df])
+    # df.to_csv(f'{date}_gtab/{date}_aggregatedDf.csv')
+    df = pd.read_csv('queries.csv')
     
-    queryList = df['summarized-query'].to_list()
+    queryList = df['query'].to_list()
+    logging.log(queryList)
     logging.info(f"length of query List: {len(queryList)}")
     query_validate.main(t, queryList, date, 1)

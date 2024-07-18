@@ -1,0 +1,863 @@
+
+2024-07-18 15:24:07.420512
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:24:26.461223
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:24:45.473698
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:25:16.436871
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:25:39.220433
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:26:01.898468
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:26:24.627575
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+0/568 keyword candidates found in cache, 568 still to check.
+Sampling keywords...
+
+2024-07-18 15:27:08.441266
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+3/568 keyword candidates found in cache, 565 still to check.
+Sampling keywords...
+
+2024-07-18 15:27:31.151429
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+3/568 keyword candidates found in cache, 565 still to check.
+Sampling keywords...
+
+2024-07-18 15:27:53.719931
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+3/568 keyword candidates found in cache, 565 still to check.
+Sampling keywords...
+
+2024-07-18 15:28:32.310851
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+4/568 keyword candidates found in cache, 564 still to check.
+Sampling keywords...
+
+2024-07-18 15:29:35.046342
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+9/568 keyword candidates found in cache, 559 still to check.
+Sampling keywords...
+
+2024-07-18 15:30:19.119556
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+12/568 keyword candidates found in cache, 556 still to check.
+Sampling keywords...
+
+2024-07-18 15:30:43.770129
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+12/568 keyword candidates found in cache, 556 still to check.
+Sampling keywords...
+
+2024-07-18 15:31:06.464305
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+12/568 keyword candidates found in cache, 556 still to check.
+Sampling keywords...
+
+2024-07-18 15:31:43.973755
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:32:07.463396
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:32:30.433344
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:32:53.448723
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:33:16.946315
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:33:39.606000
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:34:02.763819
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:34:25.513407
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:34:48.217479
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:35:11.201350
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:35:33.828609
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:35:56.518409
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:36:19.087991
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:36:41.700653
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+2024-07-18 15:48:44.783525
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+13/568 keyword candidates found in cache, 555 still to check.
+Sampling keywords...
+
+Bad keyword '/m/0289n8t', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d07ph', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0b2334', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03vgrr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/010qmszp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05g0_z', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09cpv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09cgp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01yt8c', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/020vl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01l566', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/025r2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07clx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fp5h', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01_r_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05s38', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06qrr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01645p', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/029gy3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/020dp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/023ls', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/017dqv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07bgp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d_94', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09lnn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/015_77', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0ctfk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cl2v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/081qc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dm32', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dwgb', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0m09', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0f4s2w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cyhj_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0frq6', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0388q', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01k_hc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03p1r4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07clf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/054hcy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01z1m1x', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fjfh', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0hyn4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gk0z', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fp6w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/013v0m', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cjq5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01g7qz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01j7_f', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fkw3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01z2x2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02kr76', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0m775', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/080vl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/012mj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/013__5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/020j3z', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0mjyx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03q8g', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02dlfy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02nm6c', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03d0ts', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03f3hr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/084cz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02z0ps', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02y17j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fl3p', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/016yfz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01khc9', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01k17j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/045r6_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01px4b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0b3lj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07lrp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01h5wg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/081blf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01bg6m', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0k5sl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/026ym7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0c8jf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05pws', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d5nn', because The request failed: Google returned a response with code 400
+
+2024-07-18 16:07:06.450682
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+95/568 keyword candidates found in cache, 473 still to check.
+Sampling keywords...
+
+2024-07-18 16:08:21.451806
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+95/568 keyword candidates found in cache, 473 still to check.
+Sampling keywords...
+
+Bad keyword '/m/026pc21', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0g07j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05zb4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0jly1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05hc9_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/024247', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05w9z', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/016dld', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02859d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d2nk4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/018kww', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03wkn5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01xbt3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01pkxv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/017dpx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01bfr_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04sg5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/044dt_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05zps7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/035bfz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02xj0b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/022rt1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01j75r', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05b72n', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04tdfk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gvmv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01qbpv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0b8r64', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/049qbg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/015w3y', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01_xp9', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01j3hf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01_g9d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/019rwt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02m6ts', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/020b3f', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0fg_4r', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/050_xm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0m0gc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0130ck', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0ct59', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02v8tn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/051sqc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/039blp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/099pqr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02_ybg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03ht_b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01fd31', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01f79n', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/013wxq', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/032lrz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03fl3v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04tcyk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02vwb2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0k0mp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02tlp3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01bp2v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02wz0x0', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02qm2x', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01fg3n', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03p4r6', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08bgdn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/034gx6', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/033xwr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02054x', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/097ybm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0ckq2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01245r', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04_y8b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0hcrq', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03_z1w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03lp1_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cfk35', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01qt9r', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02fjhf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/057mkg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/075qs7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06h3pn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05dchz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02cv5l', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06qyn0', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0308gy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02flbl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/022fjj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0597nk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0859j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0854wm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02nmnh', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/018gx_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02hlnc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0bbv6fb', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02pxbny', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04ds08', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08myc3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04c9vm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/012xzr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04knj_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01qq3s', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04czc4w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04hmk8', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0659_7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/020g7f', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02f63f', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03pvjd', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0610rv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08vzfb', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/024jj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08b4k2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01l5h4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03qt4l', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01c09k', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0f99t', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02xzk5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01myc4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02qfz3v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/027rk7_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d77sr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/030zsj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01wvgd', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0946kz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cjtln', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02q8twm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dz0lt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/027rx_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08b4vj', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/078xb_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0269z0d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02hgbm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03ydd_t', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07s41z', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0bqvs', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gtdm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01c5nc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0416b0', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/093b8w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05mscjt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06jsyl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05n91pt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06bqsw', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06v628', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07ns47', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/026my0h', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gth6', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0btmnp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09448n', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02p52fy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05b0gp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04gs17', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04dct7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09vbsy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05rbmc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09v7rsq', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0410vr2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08186b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/071xbs', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/047t99', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06n9fv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/067wdb', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/091lvp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02h90v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gcrw', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04qgp', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03vfk9', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/025s1d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01gd_v', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02m16_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03d4p1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09693d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03hwq_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01rk9j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04wg4d', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/069273', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03m2zk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02pp8n1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03myzy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01jjr1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/031073', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02clnh', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/082sxm', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04pv7w', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0c4936', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02x33x8', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09_mxk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05n1jsc', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0470gy', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03b_vg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0422m1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/043jgq', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/018sbr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/079yjd', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gmg0c', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02q8x0s', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03nllb4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gw9c2', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/014jmt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01qzzt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/01fpgg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dv27g', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02tcfg', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02qg7dt', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/036q70', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04vk5_', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09fvf7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/025strv', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08k4nr', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0gx455', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09jpb7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02vkxl4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0h3rf2j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09m43s', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04fzqn3', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0bm43t', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05gzbw', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07v9kf', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/026spzd', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0d2xmz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09xf66', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06w6jx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08d_8c', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02z6r57', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04y495', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06mqq7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07phf8', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/044z23', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06vg_j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dxqz7', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/018_z5', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04_bbx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02rj599', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0dfxdrn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02cxsh', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0465khx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0c8995', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/026xlyl', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03m3q7q', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0b97cn', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0cp2dk', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/043b0s', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05h08', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09tj9h', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02vhd1', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/04dmqd', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/07fs28', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0clcc9', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/025s71b', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05f_dx', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/08bk3g', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/06ykxz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05hbp4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05hxz3p', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/02x0nwz', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/09nn_9', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05hd1m', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/03h2_5j', because The request failed: Google returned a response with code 400

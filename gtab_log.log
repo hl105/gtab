@@ -1,0 +1,961 @@
+2024-07-18 15:23:13,149 - INFO - Using directory 'summer'
+2024-07-18 15:23:13,587 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:23:35,242 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:23:35,242 - INFO - Using directory 'summer'
+2024-07-18 15:23:35,616 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:24:06,326 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:24:06,326 - INFO - Using directory 'summer'
+2024-07-18 15:24:06,736 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:24:06,737 - INFO - loading core...takes a moment
+2024-07-18 15:24:06,737 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:24:06,737 - INFO - Using directory 'summer'
+2024-07-18 15:24:07,140 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:24:07,142 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:24:07,420 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:24:07,421 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:24:07,421 - INFO - Sampling keywords...
+2024-07-18 15:24:26,460 - ERROR - Outer Error: Retry.__init__() got an unexpected keyword argument 'method_whitelist'
+2024-07-18 15:24:26,461 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:24:26,461 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:24:26,462 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:24:26,462 - INFO - Sampling keywords...
+2024-07-18 15:24:45,472 - ERROR - Outer Error: Retry.__init__() got an unexpected keyword argument 'method_whitelist'
+2024-07-18 15:24:45,473 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:24:45,473 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:24:45,475 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:24:45,475 - INFO - Sampling keywords...
+2024-07-18 15:25:15,223 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:25:15,223 - INFO - Using directory 'summer'
+2024-07-18 15:25:15,678 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:25:15,678 - INFO - loading core...takes a moment
+2024-07-18 15:25:15,678 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:25:15,678 - INFO - Using directory 'summer'
+2024-07-18 15:25:16,045 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:25:16,045 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:25:16,436 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:25:16,437 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:25:16,437 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:25:16,438 - INFO - Sampling keywords...
+2024-07-18 15:25:39,216 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F045c7b%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq9r53uFTRkXB0JLEmqjHCM-x3vqGmf&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:25:39,220 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:25:39,220 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:25:39,221 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:25:39,221 - INFO - Sampling keywords...
+2024-07-18 15:26:01,897 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F045c7b%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq9xthR-xn3Dxe1ccjx10g3Kqf0wvgI&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:26:01,898 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:26:01,898 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:26:01,899 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:26:01,899 - INFO - Sampling keywords...
+2024-07-18 15:26:24,626 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F045c7b%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq93QwevWM3bDcbPjHHyJh0JaFcvLgA&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:26:24,627 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:26:24,627 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:26:24,628 - INFO - 0/568 keyword candidates found in cache, 568 still to check.
+2024-07-18 15:26:24,629 - INFO - Sampling keywords...
+2024-07-18 15:27:08,440 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22Facebook%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-CEV13NLS8bUUbmTwbVVC5cgtaKHX&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:27:08,441 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:27:08,441 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:27:08,442 - INFO - 3/568 keyword candidates found in cache, 565 still to check.
+2024-07-18 15:27:08,442 - INFO - Sampling keywords...
+2024-07-18 15:27:31,150 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22Facebook%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-H3TgeWp8wqNDxdyoXO7CODHQJ-oP&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:27:31,151 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:27:31,151 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:27:31,152 - INFO - 3/568 keyword candidates found in cache, 565 still to check.
+2024-07-18 15:27:31,152 - INFO - Sampling keywords...
+2024-07-18 15:27:53,719 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22Facebook%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-NsrZVgkdABzDXIA9LiVlz-7ztT2v&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:27:53,719 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:27:53,720 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:27:53,720 - INFO - 3/568 keyword candidates found in cache, 565 still to check.
+2024-07-18 15:27:53,720 - INFO - Sampling keywords...
+2024-07-18 15:28:32,309 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F09jcvs%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-XA62swkR8TSd4TCS-BQmCiw_UMXP&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:28:32,310 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:28:32,311 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:28:32,312 - INFO - 4/568 keyword candidates found in cache, 564 still to check.
+2024-07-18 15:28:32,312 - INFO - Sampling keywords...
+2024-07-18 15:29:35,044 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22Amazon%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-muBfLK_NnydDN-TTSUroBOvkxnEg&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:29:35,046 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:29:35,046 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:29:35,048 - INFO - 9/568 keyword candidates found in cache, 559 still to check.
+2024-07-18 15:29:35,048 - INFO - Sampling keywords...
+2024-07-18 15:30:19,118 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F019rl6%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-xx9r0jkEq2rpCdIsBZnC1w0sgXTO&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:30:19,119 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:30:19,119 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:30:19,121 - INFO - 12/568 keyword candidates found in cache, 556 still to check.
+2024-07-18 15:30:19,121 - INFO - Sampling keywords...
+2024-07-18 15:30:43,767 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F019rl6%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-3r-_Jm50QwZLDtwI9TBveKtQhwBv&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:30:43,770 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:30:43,770 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:30:43,773 - INFO - 12/568 keyword candidates found in cache, 556 still to check.
+2024-07-18 15:30:43,773 - INFO - Sampling keywords...
+2024-07-18 15:31:06,461 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F019rl6%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq-9tIR-1UQ9_tywsLTh2BURtpQ9NZt&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:31:06,464 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:31:06,464 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:31:06,465 - INFO - 12/568 keyword candidates found in cache, 556 still to check.
+2024-07-18 15:31:06,466 - INFO - Sampling keywords...
+2024-07-18 15:31:43,972 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_HF-fp3V2sL2gOM4PSBMri29exMQQ&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:31:43,973 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:31:43,974 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:31:43,975 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:31:43,975 - INFO - Sampling keywords...
+2024-07-18 15:32:07,462 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_M-pf-JQ4Bm-6xCkivSTuWsiiF-HA&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:32:07,463 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:32:07,463 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:32:07,464 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:32:07,465 - INFO - Sampling keywords...
+2024-07-18 15:32:30,432 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_Sqt0oYHYCdXxhsK_qMcThIFmBRLR&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:32:30,433 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:32:30,433 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:32:30,434 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:32:30,435 - INFO - Sampling keywords...
+2024-07-18 15:32:53,443 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_YdBsMMQTesriVH1mtXmS4cV8xwrl&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:32:53,448 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:32:53,449 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:32:53,450 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:32:53,451 - INFO - Sampling keywords...
+2024-07-18 15:33:16,943 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_eHHI7gP5bc6nU7UtyhBGsCIpSfH0&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:33:16,946 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:33:16,946 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:33:16,948 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:33:16,948 - INFO - Sampling keywords...
+2024-07-18 15:33:39,605 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_kCo2_UTUEnz5rl0gq0rS8zlGwAU9&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:33:39,606 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:33:39,606 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:33:39,607 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:33:39,607 - INFO - Sampling keywords...
+2024-07-18 15:34:02,762 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_pg0tFempTXPwUyw7tE0xXFRSkI0A&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:34:02,763 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:34:02,764 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:34:02,765 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:34:02,765 - INFO - Sampling keywords...
+2024-07-18 15:34:25,511 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_vU85z-OkoYWh4GNaIjR067y1cyTJ&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:34:25,513 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:34:25,513 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:34:25,514 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:34:25,514 - INFO - Sampling keywords...
+2024-07-18 15:34:48,215 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_1EVM5aGDGCrWrVoKEJT7HnIsZah-&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:34:48,217 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:34:48,217 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:34:48,219 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:34:48,219 - INFO - Sampling keywords...
+2024-07-18 15:35:11,192 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZpq_6396or7miYoR6EOPPn4n0f9sv29d&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:35:11,201 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:35:11,201 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:35:11,203 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:35:11,203 - INFO - Sampling keywords...
+2024-07-18 15:35:33,826 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZprAApd3E_xu9PGGMtcCHwG_U3uoD9nm&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:35:33,828 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:35:33,829 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:35:33,830 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:35:33,830 - INFO - Sampling keywords...
+2024-07-18 15:35:56,516 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZprAGDwtszK9t3lSiYBLzRiyaDWRNNTT&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:35:56,518 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:35:56,518 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:35:56,520 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:35:56,520 - INFO - Sampling keywords...
+2024-07-18 15:36:19,086 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZprAL8Yy8Jr_zjjA9K9QYIVEsIYrOo5v&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:36:19,088 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:36:19,088 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:36:19,089 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:36:19,089 - INFO - Sampling keywords...
+2024-07-18 15:36:41,699 - ERROR - Outer Error: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /trends/api/widgetdata/multiline?req=%7B%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22resolution%22%3A+%22DAY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22comparisonItem%22%3A+%5B%7B%22geo%22%3A+%7B%22country%22%3A+%22US%22%7D%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22ENTITY%22%2C+%22value%22%3A+%22%2Fm%2F0289n8t%22%7D%5D%7D%7D%5D%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%7D&token=APP6_UEAAAAAZprARmTT2AZwJt6cWE-xMbQwJByGG6EQ&tz=360 (Caused by ResponseError('too many 429 error responses'))
+2024-07-18 15:36:41,700 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:36:41,701 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:36:41,702 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:36:41,702 - INFO - Sampling keywords...
+2024-07-18 15:41:33,810 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:41:33,810 - INFO - Using directory 'summer'
+2024-07-18 15:41:34,042 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:41:34,043 - INFO - loading core...takes a moment
+2024-07-18 15:41:34,044 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:41:34,044 - INFO - Using directory 'summer'
+2024-07-18 15:41:34,301 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:41:34,301 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:42:43,169 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:42:43,169 - INFO - Using directory 'summer'
+2024-07-18 15:43:57,210 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:43:57,211 - INFO - Using directory 'summer'
+2024-07-18 15:43:57,507 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:43:57,508 - INFO - loading core...takes a moment
+2024-07-18 15:43:57,508 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:43:57,508 - INFO - Using directory 'summer'
+2024-07-18 15:43:57,819 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:43:57,820 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:45:26,950 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:45:26,953 - INFO - Using directory 'summer'
+2024-07-18 15:45:27,209 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:45:27,209 - INFO - loading core...takes a moment
+2024-07-18 15:45:27,209 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:45:27,209 - INFO - Using directory 'summer'
+2024-07-18 15:45:27,478 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:45:27,478 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:45:42,316 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:45:42,316 - INFO - Using directory 'summer'
+2024-07-18 15:45:42,530 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:45:42,531 - INFO - loading core...takes a moment
+2024-07-18 15:45:42,532 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:45:42,532 - INFO - Using directory 'summer'
+2024-07-18 15:45:42,736 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:45:42,736 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:46:27,884 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:46:27,884 - INFO - Using directory 'summer'
+2024-07-18 15:46:28,029 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:46:28,030 - INFO - loading core...takes a moment
+2024-07-18 15:46:28,031 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:46:28,031 - INFO - Using directory 'summer'
+2024-07-18 15:46:28,236 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:46:28,237 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:47:48,025 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:47:48,025 - INFO - Using directory 'summer'
+2024-07-18 15:47:48,329 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:47:48,329 - INFO - loading core...takes a moment
+2024-07-18 15:47:48,330 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:47:48,330 - INFO - Using directory 'summer'
+2024-07-18 15:47:48,593 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:47:48,593 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:48:44,183 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:48:44,183 - INFO - Using directory 'summer'
+2024-07-18 15:48:44,532 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:48:44,533 - INFO - loading core...takes a moment
+2024-07-18 15:48:44,533 - INFO - Directory already exists, loading data from it.
+2024-07-18 15:48:44,534 - INFO - Using directory 'summer'
+2024-07-18 15:48:44,734 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-18 15:48:44,734 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-18 15:48:44,783 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 15:48:44,783 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 15:48:44,786 - INFO - 13/568 keyword candidates found in cache, 555 still to check.
+2024-07-18 15:48:44,786 - INFO - Sampling keywords...
+2024-07-18 15:49:03,976 - INFO - 
+Bad keyword '/m/0289n8t', because The request failed: Google returned a response with code 400
+2024-07-18 15:49:16,037 - INFO - 
+Bad keyword '/m/0d07ph', because The request failed: Google returned a response with code 400
+2024-07-18 15:49:18,195 - INFO - 
+Bad keyword '/m/0b2334', because The request failed: Google returned a response with code 400
+2024-07-18 15:49:23,258 - INFO - 
+Bad keyword '/m/03vgrr', because The request failed: Google returned a response with code 400
+2024-07-18 15:49:33,407 - INFO - 
+Bad keyword '/m/010qmszp', because The request failed: Google returned a response with code 400
+2024-07-18 15:49:40,561 - INFO - 
+Bad keyword '/m/05g0_z', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:00,628 - INFO - 
+Bad keyword '/m/09cpv', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:10,790 - INFO - 
+Bad keyword '/m/09cgp', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:13,859 - INFO - 
+Bad keyword '/m/01yt8c', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:18,929 - INFO - 
+Bad keyword '/m/020vl', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:40,012 - INFO - 
+Bad keyword '/m/01l566', because The request failed: Google returned a response with code 400
+2024-07-18 15:50:55,161 - INFO - 
+Bad keyword '/m/025r2', because The request failed: Google returned a response with code 400
+2024-07-18 15:51:08,312 - INFO - 
+Bad keyword '/m/07clx', because The request failed: Google returned a response with code 400
+2024-07-18 15:51:20,478 - INFO - 
+Bad keyword '/m/0fp5h', because The request failed: Google returned a response with code 400
+2024-07-18 15:51:35,645 - INFO - 
+Bad keyword '/m/01_r_', because The request failed: Google returned a response with code 400
+2024-07-18 15:51:56,707 - INFO - 
+Bad keyword '/m/05s38', because The request failed: Google returned a response with code 400
+2024-07-18 15:52:14,860 - INFO - 
+Bad keyword '/m/06qrr', because The request failed: Google returned a response with code 400
+2024-07-18 15:52:19,924 - INFO - 
+Bad keyword '/m/01645p', because The request failed: Google returned a response with code 400
+2024-07-18 15:52:34,002 - INFO - 
+Bad keyword '/m/029gy3', because The request failed: Google returned a response with code 400
+2024-07-18 15:52:54,065 - INFO - 
+Bad keyword '/m/020dp', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:02,223 - INFO - 
+Bad keyword '/m/023ls', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:12,377 - INFO - 
+Bad keyword '/m/017dqv', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:15,532 - INFO - 
+Bad keyword '/m/07bgp', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:30,695 - INFO - 
+Bad keyword '/m/0d_94', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:32,766 - INFO - 
+Bad keyword '/m/09lnn', because The request failed: Google returned a response with code 400
+2024-07-18 15:53:50,933 - INFO - 
+Bad keyword '/m/015_77', because The request failed: Google returned a response with code 400
+2024-07-18 15:54:10,019 - INFO - 
+Bad keyword '/m/0ctfk', because The request failed: Google returned a response with code 400
+2024-07-18 15:54:18,180 - INFO - 
+Bad keyword '/m/0cl2v', because The request failed: Google returned a response with code 400
+2024-07-18 15:54:31,333 - INFO - 
+Bad keyword '/m/081qc', because The request failed: Google returned a response with code 400
+2024-07-18 15:54:46,397 - INFO - 
+Bad keyword '/m/0dm32', because The request failed: Google returned a response with code 400
+2024-07-18 15:54:50,470 - INFO - 
+Bad keyword '/m/0dwgb', because The request failed: Google returned a response with code 400
+2024-07-18 15:55:02,650 - INFO - 
+Bad keyword '/m/0m09', because The request failed: Google returned a response with code 400
+2024-07-18 15:55:23,806 - INFO - 
+Bad keyword '/m/0f4s2w', because The request failed: Google returned a response with code 400
+2024-07-18 15:55:35,884 - INFO - 
+Bad keyword '/m/0cyhj_', because The request failed: Google returned a response with code 400
+2024-07-18 15:55:41,055 - INFO - 
+Bad keyword '/m/0frq6', because The request failed: Google returned a response with code 400
+2024-07-18 15:55:52,116 - INFO - 
+Bad keyword '/m/0388q', because The request failed: Google returned a response with code 400
+2024-07-18 15:56:10,186 - INFO - 
+Bad keyword '/m/01k_hc', because The request failed: Google returned a response with code 400
+2024-07-18 15:56:21,501 - INFO - 
+Bad keyword '/m/03p1r4', because The request failed: Google returned a response with code 400
+2024-07-18 15:56:36,663 - INFO - 
+Bad keyword '/m/07clf', because The request failed: Google returned a response with code 400
+2024-07-18 15:56:48,821 - INFO - 
+Bad keyword '/m/054hcy', because The request failed: Google returned a response with code 400
+2024-07-18 15:57:02,981 - INFO - 
+Bad keyword '/m/01z1m1x', because The request failed: Google returned a response with code 400
+2024-07-18 15:57:14,130 - INFO - 
+Bad keyword '/m/0fjfh', because The request failed: Google returned a response with code 400
+2024-07-18 15:57:33,196 - INFO - 
+Bad keyword '/m/0hyn4', because The request failed: Google returned a response with code 400
+2024-07-18 15:57:39,343 - INFO - 
+Bad keyword '/m/0gk0z', because The request failed: Google returned a response with code 400
+2024-07-18 15:57:47,493 - INFO - 
+Bad keyword '/m/0fp6w', because The request failed: Google returned a response with code 400
+2024-07-18 15:58:02,671 - INFO - 
+Bad keyword '/m/013v0m', because The request failed: Google returned a response with code 400
+2024-07-18 15:58:16,832 - INFO - 
+Bad keyword '/m/0cjq5', because The request failed: Google returned a response with code 400
+2024-07-18 15:58:23,901 - INFO - 
+Bad keyword '/m/01g7qz', because The request failed: Google returned a response with code 400
+2024-07-18 15:58:44,971 - INFO - 
+Bad keyword '/m/01j7_f', because The request failed: Google returned a response with code 400
+2024-07-18 15:59:05,030 - INFO - 
+Bad keyword '/m/0fkw3', because The request failed: Google returned a response with code 400
+2024-07-18 15:59:16,235 - INFO - 
+Bad keyword '/m/01z2x2', because The request failed: Google returned a response with code 400
+2024-07-18 15:59:30,296 - INFO - 
+Bad keyword '/m/02kr76', because The request failed: Google returned a response with code 400
+2024-07-18 15:59:49,430 - INFO - 
+Bad keyword '/m/0m775', because The request failed: Google returned a response with code 400
+2024-07-18 15:59:51,499 - INFO - 
+Bad keyword '/m/080vl', because The request failed: Google returned a response with code 400
+2024-07-18 16:00:02,566 - INFO - 
+Bad keyword '/m/012mj', because The request failed: Google returned a response with code 400
+2024-07-18 16:00:13,656 - INFO - 
+Bad keyword '/m/013__5', because The request failed: Google returned a response with code 400
+2024-07-18 16:01:04,806 - INFO - 
+Bad keyword '/m/020j3z', because The request failed: Google returned a response with code 400
+2024-07-18 16:01:19,817 - INFO - 
+Bad keyword '/m/0mjyx', because The request failed: Google returned a response with code 400
+2024-07-18 16:01:39,879 - INFO - 
+Bad keyword '/m/03q8g', because The request failed: Google returned a response with code 400
+2024-07-18 16:02:00,943 - INFO - 
+Bad keyword '/m/02dlfy', because The request failed: Google returned a response with code 400
+2024-07-18 16:02:13,108 - INFO - 
+Bad keyword '/m/02nm6c', because The request failed: Google returned a response with code 400
+2024-07-18 16:02:29,267 - INFO - 
+Bad keyword '/m/03d0ts', because The request failed: Google returned a response with code 400
+2024-07-18 16:02:45,331 - INFO - 
+Bad keyword '/m/03f3hr', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:01,403 - INFO - 
+Bad keyword '/m/084cz', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:09,480 - INFO - 
+Bad keyword '/m/02z0ps', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:27,653 - INFO - 
+Bad keyword '/m/02y17j', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:44,726 - INFO - 
+Bad keyword '/m/0fl3p', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:51,883 - INFO - 
+Bad keyword '/m/016yfz', because The request failed: Google returned a response with code 400
+2024-07-18 16:03:55,954 - INFO - 
+Bad keyword '/m/01khc9', because The request failed: Google returned a response with code 400
+2024-07-18 16:04:07,018 - INFO - 
+Bad keyword '/m/01k17j', because The request failed: Google returned a response with code 400
+2024-07-18 16:04:25,078 - INFO - 
+Bad keyword '/m/045r6_', because The request failed: Google returned a response with code 400
+2024-07-18 16:04:46,248 - INFO - 
+Bad keyword '/m/01px4b', because The request failed: Google returned a response with code 400
+2024-07-18 16:04:58,320 - INFO - 
+Bad keyword '/m/0b3lj', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:02,398 - INFO - 
+Bad keyword '/m/07lrp', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:11,463 - INFO - 
+Bad keyword '/m/01h5wg', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:22,535 - INFO - 
+Bad keyword '/m/081blf', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:31,860 - INFO - 
+Bad keyword '/m/01bg6m', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:39,928 - INFO - 
+Bad keyword '/m/0k5sl', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:46,087 - INFO - 
+Bad keyword '/m/026ym7', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:48,156 - INFO - 
+Bad keyword '/m/0c8jf', because The request failed: Google returned a response with code 400
+2024-07-18 16:05:51,307 - INFO - 
+Bad keyword '/m/05pws', because The request failed: Google returned a response with code 400
+2024-07-18 16:06:00,490 - INFO - 
+Bad keyword '/m/0d5nn', because The request failed: Google returned a response with code 400
+2024-07-18 16:07:03,428 - WARNING - Retrying (Retry(total=4, connect=4, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1185655e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:07:03,637 - WARNING - Retrying (Retry(total=3, connect=3, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118565550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:07:04,040 - WARNING - Retrying (Retry(total=2, connect=2, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118565580>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:07:04,842 - WARNING - Retrying (Retry(total=1, connect=1, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118565af0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:07:06,444 - WARNING - Retrying (Retry(total=0, connect=0, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118565eb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:07:06,449 - ERROR - Outer Error: HTTPConnectionPool(host='trends.google.com', port=80): Max retries exceeded with url: /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118566270>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2024-07-18 16:07:06,450 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 16:07:06,451 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 16:07:06,452 - INFO - 95/568 keyword candidates found in cache, 473 still to check.
+2024-07-18 16:07:06,453 - INFO - Sampling keywords...
+2024-07-18 16:08:18,419 - WARNING - Retrying (Retry(total=4, connect=4, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118566a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:08:18,629 - WARNING - Retrying (Retry(total=3, connect=3, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118566ea0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:08:19,033 - WARNING - Retrying (Retry(total=2, connect=2, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118567260>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:08:19,840 - WARNING - Retrying (Retry(total=1, connect=1, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118567620>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:08:21,446 - WARNING - Retrying (Retry(total=0, connect=0, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118567980>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')': /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D
+2024-07-18 16:08:21,451 - ERROR - Outer Error: HTTPConnectionPool(host='trends.google.com', port=80): Max retries exceeded with url: /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22%2Fm%2F026pc21%22%2C+%22time%22%3A+%222024-06-14+2024-07-14%22%2C+%22geo%22%3A+%22US%22%7D%5D%2C+%22category%22%3A+%220%22%2C+%22property%22%3A+%22%22%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x118567d40>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2024-07-18 16:08:21,451 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-18 16:08:21,452 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-18 16:08:21,453 - INFO - 95/568 keyword candidates found in cache, 473 still to check.
+2024-07-18 16:08:21,453 - INFO - Sampling keywords...
+2024-07-18 16:08:40,770 - INFO - 
+Bad keyword '/m/026pc21', because The request failed: Google returned a response with code 400
+2024-07-18 16:08:52,913 - INFO - 
+Bad keyword '/m/0g07j', because The request failed: Google returned a response with code 400
+2024-07-18 16:08:55,066 - INFO - 
+Bad keyword '/m/05zb4', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:00,131 - INFO - 
+Bad keyword '/m/0jly1', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:10,191 - INFO - 
+Bad keyword '/m/05hc9_', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:17,342 - INFO - 
+Bad keyword '/m/024247', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:37,497 - INFO - 
+Bad keyword '/m/05w9z', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:47,558 - INFO - 
+Bad keyword '/m/016dld', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:50,713 - INFO - 
+Bad keyword '/m/02859d', because The request failed: Google returned a response with code 400
+2024-07-18 16:09:55,779 - INFO - 
+Bad keyword '/m/0d2nk4', because The request failed: Google returned a response with code 400
+2024-07-18 16:10:17,047 - INFO - 
+Bad keyword '/m/018kww', because The request failed: Google returned a response with code 400
+2024-07-18 16:10:32,108 - INFO - 
+Bad keyword '/m/03wkn5', because The request failed: Google returned a response with code 400
+2024-07-18 16:10:45,360 - INFO - 
+Bad keyword '/m/01xbt3', because The request failed: Google returned a response with code 400
+2024-07-18 16:10:57,421 - INFO - 
+Bad keyword '/m/01pkxv', because The request failed: Google returned a response with code 400
+2024-07-18 16:11:12,500 - INFO - 
+Bad keyword '/m/017dpx', because The request failed: Google returned a response with code 400
+2024-07-18 16:11:33,681 - INFO - 
+Bad keyword '/m/01bfr_', because The request failed: Google returned a response with code 400
+2024-07-18 16:11:51,868 - INFO - 
+Bad keyword '/m/04sg5', because The request failed: Google returned a response with code 400
+2024-07-18 16:11:56,928 - INFO - 
+Bad keyword '/m/044dt_', because The request failed: Google returned a response with code 400
+2024-07-18 16:12:11,081 - INFO - 
+Bad keyword '/m/05zps7', because The request failed: Google returned a response with code 400
+2024-07-18 16:12:31,234 - INFO - 
+Bad keyword '/m/035bfz', because The request failed: Google returned a response with code 400
+2024-07-18 16:12:39,310 - INFO - 
+Bad keyword '/m/02xj0b', because The request failed: Google returned a response with code 400
+2024-07-18 16:12:49,373 - INFO - 
+Bad keyword '/m/022rt1', because The request failed: Google returned a response with code 400
+2024-07-18 16:12:52,449 - INFO - 
+Bad keyword '/m/01j75r', because The request failed: Google returned a response with code 400
+2024-07-18 16:13:07,512 - INFO - 
+Bad keyword '/m/05b72n', because The request failed: Google returned a response with code 400
+2024-07-18 16:13:09,846 - INFO - 
+Bad keyword '/m/04tdfk', because The request failed: Google returned a response with code 400
+2024-07-18 16:13:28,000 - INFO - 
+Bad keyword '/m/0gvmv', because The request failed: Google returned a response with code 400
+2024-07-18 16:13:47,074 - INFO - 
+Bad keyword '/m/01qbpv', because The request failed: Google returned a response with code 400
+2024-07-18 16:13:55,231 - INFO - 
+Bad keyword '/m/0b8r64', because The request failed: Google returned a response with code 400
+2024-07-18 16:14:08,378 - INFO - 
+Bad keyword '/m/049qbg', because The request failed: Google returned a response with code 400
+2024-07-18 16:14:23,448 - INFO - 
+Bad keyword '/m/015w3y', because The request failed: Google returned a response with code 400
+2024-07-18 16:14:27,599 - INFO - 
+Bad keyword '/m/01_xp9', because The request failed: Google returned a response with code 400
+2024-07-18 16:14:39,660 - INFO - 
+Bad keyword '/m/01j3hf', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:00,733 - INFO - 
+Bad keyword '/m/01_g9d', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:12,796 - INFO - 
+Bad keyword '/m/019rwt', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:17,857 - INFO - 
+Bad keyword '/m/02m6ts', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:28,932 - INFO - 
+Bad keyword '/m/020b3f', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:47,098 - INFO - 
+Bad keyword '/m/0fg_4r', because The request failed: Google returned a response with code 400
+2024-07-18 16:15:58,174 - INFO - 
+Bad keyword '/m/050_xm', because The request failed: Google returned a response with code 400
+2024-07-18 16:16:13,234 - INFO - 
+Bad keyword '/m/0m0gc', because The request failed: Google returned a response with code 400
+2024-07-18 16:16:25,381 - INFO - 
+Bad keyword '/m/0130ck', because The request failed: Google returned a response with code 400
+2024-07-18 16:16:39,545 - INFO - 
+Bad keyword '/m/0ct59', because The request failed: Google returned a response with code 400
+2024-07-18 16:16:50,618 - INFO - 
+Bad keyword '/m/02v8tn', because The request failed: Google returned a response with code 400
+2024-07-18 16:17:09,678 - INFO - 
+Bad keyword '/m/051sqc', because The request failed: Google returned a response with code 400
+2024-07-18 16:17:15,838 - INFO - 
+Bad keyword '/m/039blp', because The request failed: Google returned a response with code 400
+2024-07-18 16:17:23,912 - INFO - 
+Bad keyword '/m/099pqr', because The request failed: Google returned a response with code 400
+2024-07-18 16:17:39,071 - INFO - 
+Bad keyword '/m/02_ybg', because The request failed: Google returned a response with code 400
+2024-07-18 16:17:53,134 - INFO - 
+Bad keyword '/m/03ht_b', because The request failed: Google returned a response with code 400
+2024-07-18 16:18:00,201 - INFO - 
+Bad keyword '/m/01fd31', because The request failed: Google returned a response with code 400
+2024-07-18 16:18:21,377 - INFO - 
+Bad keyword '/m/01f79n', because The request failed: Google returned a response with code 400
+2024-07-18 16:18:41,451 - INFO - 
+Bad keyword '/m/013wxq', because The request failed: Google returned a response with code 400
+2024-07-18 16:18:52,525 - INFO - 
+Bad keyword '/m/032lrz', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:06,596 - INFO - 
+Bad keyword '/m/03fl3v', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:25,749 - INFO - 
+Bad keyword '/m/04tcyk', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:27,907 - INFO - 
+Bad keyword '/m/02vwb2', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:38,980 - INFO - 
+Bad keyword '/m/0k0mp', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:50,138 - INFO - 
+Bad keyword '/m/02tlp3', because The request failed: Google returned a response with code 400
+2024-07-18 16:19:58,205 - INFO - 
+Bad keyword '/m/01bp2v', because The request failed: Google returned a response with code 400
+2024-07-18 16:20:13,366 - INFO - 
+Bad keyword '/m/02wz0x0', because The request failed: Google returned a response with code 400
+2024-07-18 16:20:33,521 - INFO - 
+Bad keyword '/m/02qm2x', because The request failed: Google returned a response with code 400
+2024-07-18 16:20:54,592 - INFO - 
+Bad keyword '/m/01fg3n', because The request failed: Google returned a response with code 400
+2024-07-18 16:21:06,681 - INFO - 
+Bad keyword '/m/03p4r6', because The request failed: Google returned a response with code 400
+2024-07-18 16:21:22,797 - INFO - 
+Bad keyword '/m/08bgdn', because The request failed: Google returned a response with code 400
+2024-07-18 16:21:38,945 - INFO - 
+Bad keyword '/m/034gx6', because The request failed: Google returned a response with code 400
+2024-07-18 16:21:55,009 - INFO - 
+Bad keyword '/m/033xwr', because The request failed: Google returned a response with code 400
+2024-07-18 16:22:03,186 - INFO - 
+Bad keyword '/m/02054x', because The request failed: Google returned a response with code 400
+2024-07-18 16:22:21,249 - INFO - 
+Bad keyword '/m/097ybm', because The request failed: Google returned a response with code 400
+2024-07-18 16:22:38,401 - INFO - 
+Bad keyword '/m/0ckq2', because The request failed: Google returned a response with code 400
+2024-07-18 16:22:45,562 - INFO - 
+Bad keyword '/m/01245r', because The request failed: Google returned a response with code 400
+2024-07-18 16:22:49,635 - INFO - 
+Bad keyword '/m/04_y8b', because The request failed: Google returned a response with code 400
+2024-07-18 16:23:00,788 - INFO - 
+Bad keyword '/m/0hcrq', because The request failed: Google returned a response with code 400
+2024-07-18 16:23:18,948 - INFO - 
+Bad keyword '/m/03_z1w', because The request failed: Google returned a response with code 400
+2024-07-18 16:23:40,016 - INFO - 
+Bad keyword '/m/03lp1_', because The request failed: Google returned a response with code 400
+2024-07-18 16:23:52,173 - INFO - 
+Bad keyword '/m/0cfk35', because The request failed: Google returned a response with code 400
+2024-07-18 16:23:56,332 - INFO - 
+Bad keyword '/m/01qt9r', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:05,490 - INFO - 
+Bad keyword '/m/02fjhf', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:16,652 - INFO - 
+Bad keyword '/m/057mkg', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:25,811 - INFO - 
+Bad keyword '/m/075qs7', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:33,974 - INFO - 
+Bad keyword '/m/06h3pn', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:40,144 - INFO - 
+Bad keyword '/m/05dchz', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:42,210 - INFO - 
+Bad keyword '/m/02cv5l', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:45,373 - INFO - 
+Bad keyword '/m/06qyn0', because The request failed: Google returned a response with code 400
+2024-07-18 16:24:54,438 - INFO - 
+Bad keyword '/m/0308gy', because The request failed: Google returned a response with code 400
+2024-07-18 16:25:11,608 - INFO - 
+Bad keyword '/m/02flbl', because The request failed: Google returned a response with code 400
+2024-07-18 16:25:32,678 - INFO - 
+Bad keyword '/m/022fjj', because The request failed: Google returned a response with code 400
+2024-07-18 16:25:36,826 - INFO - 
+Bad keyword '/m/0597nk', because The request failed: Google returned a response with code 400
+2024-07-18 16:25:52,908 - INFO - 
+Bad keyword '/m/0859j', because The request failed: Google returned a response with code 400
+2024-07-18 16:26:07,981 - INFO - 
+Bad keyword '/m/0854wm', because The request failed: Google returned a response with code 400
+2024-07-18 16:26:28,135 - INFO - 
+Bad keyword '/m/02nmnh', because The request failed: Google returned a response with code 400
+2024-07-18 16:26:36,307 - INFO - 
+Bad keyword '/m/018gx_', because The request failed: Google returned a response with code 400
+2024-07-18 16:26:50,372 - INFO - 
+Bad keyword '/m/02hlnc', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:07,530 - INFO - 
+Bad keyword '/m/0bbv6fb', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:21,705 - INFO - 
+Bad keyword '/m/02pxbny', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:30,771 - INFO - 
+Bad keyword '/m/04ds08', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:36,932 - INFO - 
+Bad keyword '/m/08myc3', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:39,085 - INFO - 
+Bad keyword '/m/04c9vm', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:44,153 - INFO - 
+Bad keyword '/m/012xzr', because The request failed: Google returned a response with code 400
+2024-07-18 16:27:59,314 - INFO - 
+Bad keyword '/m/04knj_', because The request failed: Google returned a response with code 400
+2024-07-18 16:28:08,468 - INFO - 
+Bad keyword '/m/01qq3s', because The request failed: Google returned a response with code 400
+2024-07-18 16:28:15,621 - INFO - 
+Bad keyword '/m/04czc4w', because The request failed: Google returned a response with code 400
+2024-07-18 16:28:33,689 - INFO - 
+Bad keyword '/m/04hmk8', because The request failed: Google returned a response with code 400
+2024-07-18 16:28:49,751 - INFO - 
+Bad keyword '/m/0659_7', because The request failed: Google returned a response with code 400
+2024-07-18 16:28:52,817 - INFO - 
+Bad keyword '/m/020g7f', because The request failed: Google returned a response with code 400
+2024-07-18 16:29:11,974 - INFO - 
+Bad keyword '/m/02f63f', because The request failed: Google returned a response with code 400
+2024-07-18 16:29:21,046 - INFO - 
+Bad keyword '/m/03pvjd', because The request failed: Google returned a response with code 400
+2024-07-18 16:29:26,203 - INFO - 
+Bad keyword '/m/0610rv', because The request failed: Google returned a response with code 400
+2024-07-18 16:29:42,377 - INFO - 
+Bad keyword '/m/08vzfb', because The request failed: Google returned a response with code 400
+2024-07-18 16:29:48,517 - INFO - 
+Bad keyword '/m/024jj', because The request failed: Google returned a response with code 400
+2024-07-18 16:30:04,582 - INFO - 
+Bad keyword '/m/08b4k2', because The request failed: Google returned a response with code 400
+2024-07-18 16:30:22,690 - INFO - 
+Bad keyword '/m/01l5h4', because The request failed: Google returned a response with code 400
+2024-07-18 16:30:41,972 - INFO - 
+Bad keyword '/m/03qt4l', because The request failed: Google returned a response with code 400
+2024-07-18 16:31:03,085 - INFO - 
+Bad keyword '/m/01c09k', because The request failed: Google returned a response with code 400
+2024-07-18 16:31:15,156 - INFO - 
+Bad keyword '/m/0f99t', because The request failed: Google returned a response with code 400
+2024-07-18 16:31:31,221 - INFO - 
+Bad keyword '/m/02xzk5', because The request failed: Google returned a response with code 400
+2024-07-18 16:31:52,396 - INFO - 
+Bad keyword '/m/01myc4', because The request failed: Google returned a response with code 400
+2024-07-18 16:32:10,461 - INFO - 
+Bad keyword '/m/02qfz3v', because The request failed: Google returned a response with code 400
+2024-07-18 16:32:25,614 - INFO - 
+Bad keyword '/m/027rk7_', because The request failed: Google returned a response with code 400
+2024-07-18 16:32:44,670 - INFO - 
+Bad keyword '/m/0d77sr', because The request failed: Google returned a response with code 400
+2024-07-18 16:33:00,821 - INFO - 
+Bad keyword '/m/030zsj', because The request failed: Google returned a response with code 400
+2024-07-18 16:33:07,900 - INFO - 
+Bad keyword '/m/01wvgd', because The request failed: Google returned a response with code 400
+2024-07-18 16:33:25,050 - INFO - 
+Bad keyword '/m/0946kz', because The request failed: Google returned a response with code 400
+2024-07-18 16:33:41,223 - INFO - 
+Bad keyword '/m/0cjtln', because The request failed: Google returned a response with code 400
+2024-07-18 16:33:51,452 - INFO - 
+Bad keyword '/m/02q8twm', because The request failed: Google returned a response with code 400
+2024-07-18 16:34:00,634 - INFO - 
+Bad keyword '/m/0dz0lt', because The request failed: Google returned a response with code 400
+2024-07-18 16:34:10,694 - INFO - 
+Bad keyword '/m/027rx_', because The request failed: Google returned a response with code 400
+2024-07-18 16:34:28,932 - INFO - 
+Bad keyword '/m/08b4vj', because The request failed: Google returned a response with code 400
+2024-07-18 16:34:46,094 - INFO - 
+Bad keyword '/m/078xb_', because The request failed: Google returned a response with code 400
+2024-07-18 16:34:55,249 - INFO - 
+Bad keyword '/m/0269z0d', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:05,394 - INFO - 
+Bad keyword '/m/02hgbm', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:21,546 - INFO - 
+Bad keyword '/m/03ydd_t', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:25,602 - INFO - 
+Bad keyword '/m/07s41z', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:36,976 - INFO - 
+Bad keyword '/m/0bqvs', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:46,146 - INFO - 
+Bad keyword '/m/0gtdm', because The request failed: Google returned a response with code 400
+2024-07-18 16:35:56,216 - INFO - 
+Bad keyword '/m/01c5nc', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:08,297 - INFO - 
+Bad keyword '/m/0416b0', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:20,363 - INFO - 
+Bad keyword '/m/093b8w', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:39,512 - INFO - 
+Bad keyword '/m/05mscjt', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:43,613 - INFO - 
+Bad keyword '/m/06jsyl', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:49,673 - INFO - 
+Bad keyword '/m/05n91pt', because The request failed: Google returned a response with code 400
+2024-07-18 16:36:55,831 - INFO - 
+Bad keyword '/m/06bqsw', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:04,907 - INFO - 
+Bad keyword '/m/06v628', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:19,056 - INFO - 
+Bad keyword '/m/07ns47', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:25,115 - INFO - 
+Bad keyword '/m/026my0h', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:33,180 - INFO - 
+Bad keyword '/m/0gth6', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:37,321 - INFO - 
+Bad keyword '/m/0btmnp', because The request failed: Google returned a response with code 400
+2024-07-18 16:37:52,379 - INFO - 
+Bad keyword '/m/09448n', because The request failed: Google returned a response with code 400
+2024-07-18 16:38:07,532 - INFO - 
+Bad keyword '/m/02p52fy', because The request failed: Google returned a response with code 400
+2024-07-18 16:38:19,690 - INFO - 
+Bad keyword '/m/05b0gp', because The request failed: Google returned a response with code 400
+2024-07-18 16:38:38,751 - INFO - 
+Bad keyword '/m/04gs17', because The request failed: Google returned a response with code 400
+2024-07-18 16:38:54,918 - INFO - 
+Bad keyword '/m/04dct7', because The request failed: Google returned a response with code 400
+2024-07-18 16:39:09,983 - INFO - 
+Bad keyword '/m/09vbsy', because The request failed: Google returned a response with code 400
+2024-07-18 16:39:13,150 - INFO - 
+Bad keyword '/m/05rbmc', because The request failed: Google returned a response with code 400
+2024-07-18 16:39:21,216 - INFO - 
+Bad keyword '/m/09v7rsq', because The request failed: Google returned a response with code 400
+2024-07-18 16:39:36,285 - INFO - 
+Bad keyword '/m/0410vr2', because The request failed: Google returned a response with code 400
+2024-07-18 16:39:50,443 - INFO - 
+Bad keyword '/m/08186b', because The request failed: Google returned a response with code 400
+2024-07-18 16:40:10,603 - INFO - 
+Bad keyword '/m/071xbs', because The request failed: Google returned a response with code 400
+2024-07-18 16:40:12,764 - INFO - 
+Bad keyword '/m/047t99', because The request failed: Google returned a response with code 400
+2024-07-18 16:40:32,828 - INFO - 
+Bad keyword '/m/06n9fv', because The request failed: Google returned a response with code 400
+2024-07-18 16:40:46,902 - INFO - 
+Bad keyword '/m/067wdb', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:04,053 - INFO - 
+Bad keyword '/m/091lvp', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:06,215 - INFO - 
+Bad keyword '/m/02h90v', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:19,365 - INFO - 
+Bad keyword '/m/0gcrw', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:30,428 - INFO - 
+Bad keyword '/m/04qgp', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:44,602 - INFO - 
+Bad keyword '/m/03vfk9', because The request failed: Google returned a response with code 400
+2024-07-18 16:41:59,691 - INFO - 
+Bad keyword '/m/025s1d', because The request failed: Google returned a response with code 400
+2024-07-18 16:42:18,843 - INFO - 
+Bad keyword '/m/01gd_v', because The request failed: Google returned a response with code 400
+2024-07-18 16:42:37,899 - INFO - 
+Bad keyword '/m/02m16_', because The request failed: Google returned a response with code 400
+2024-07-18 16:42:59,060 - INFO - 
+Bad keyword '/m/03d4p1', because The request failed: Google returned a response with code 400
+2024-07-18 16:43:08,115 - INFO - 
+Bad keyword '/m/09693d', because The request failed: Google returned a response with code 400
+2024-07-18 16:43:25,180 - INFO - 
+Bad keyword '/m/03hwq_', because The request failed: Google returned a response with code 400
+2024-07-18 16:43:34,343 - INFO - 
+Bad keyword '/m/01rk9j', because The request failed: Google returned a response with code 400
+2024-07-18 16:43:44,412 - INFO - 
+Bad keyword '/m/04wg4d', because The request failed: Google returned a response with code 400
+2024-07-18 16:43:59,494 - INFO - 
+Bad keyword '/m/069273', because The request failed: Google returned a response with code 400
+2024-07-18 16:44:16,650 - INFO - 
+Bad keyword '/m/03m2zk', because The request failed: Google returned a response with code 400
+2024-07-18 16:44:18,803 - INFO - 
+Bad keyword '/m/02pp8n1', because The request failed: Google returned a response with code 400
+2024-07-18 16:44:32,984 - INFO - 
+Bad keyword '/m/03myzy', because The request failed: Google returned a response with code 400
+2024-07-18 16:44:45,143 - INFO - 
+Bad keyword '/m/01jjr1', because The request failed: Google returned a response with code 400
+2024-07-18 16:44:59,288 - INFO - 
+Bad keyword '/m/031073', because The request failed: Google returned a response with code 400
+2024-07-18 16:45:06,451 - INFO - 
+Bad keyword '/m/02clnh', because The request failed: Google returned a response with code 400
+2024-07-18 16:45:22,727 - INFO - 
+Bad keyword '/m/082sxm', because The request failed: Google returned a response with code 400
+2024-07-18 16:45:28,792 - INFO - 
+Bad keyword '/m/04pv7w', because The request failed: Google returned a response with code 400
+2024-07-18 16:45:49,862 - INFO - 
+Bad keyword '/m/0c4936', because The request failed: Google returned a response with code 400
+2024-07-18 16:46:09,012 - INFO - 
+Bad keyword '/m/02x33x8', because The request failed: Google returned a response with code 400
+2024-07-18 16:46:11,173 - INFO - 
+Bad keyword '/m/09_mxk', because The request failed: Google returned a response with code 400
+2024-07-18 16:46:25,324 - INFO - 
+Bad keyword '/m/05n1jsc', because The request failed: Google returned a response with code 400
+2024-07-18 16:46:45,388 - INFO - 
+Bad keyword '/m/0470gy', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:05,547 - INFO - 
+Bad keyword '/m/03b_vg', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:07,714 - INFO - 
+Bad keyword '/m/0422m1', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:11,782 - INFO - 
+Bad keyword '/m/043jgq', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:26,874 - INFO - 
+Bad keyword '/m/018sbr', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:33,061 - INFO - 
+Bad keyword '/m/079yjd', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:49,254 - INFO - 
+Bad keyword '/m/0gmg0c', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:56,475 - INFO - 
+Bad keyword '/m/02q8x0s', because The request failed: Google returned a response with code 400
+2024-07-18 16:47:59,771 - INFO - 
+Bad keyword '/m/03nllb4', because The request failed: Google returned a response with code 400
+2024-07-18 16:48:09,981 - INFO - 
+Bad keyword '/m/0gw9c2', because The request failed: Google returned a response with code 400
+2024-07-18 16:48:24,380 - INFO - 
+Bad keyword '/m/014jmt', because The request failed: Google returned a response with code 400
+2024-07-18 16:48:36,674 - INFO - 
+Bad keyword '/m/01qzzt', because The request failed: Google returned a response with code 400
+2024-07-18 16:48:44,951 - INFO - 
+Bad keyword '/m/01fpgg', because The request failed: Google returned a response with code 400
+2024-07-18 16:49:01,069 - INFO - 
+Bad keyword '/m/0dv27g', because The request failed: Google returned a response with code 400
+2024-07-18 16:49:13,244 - INFO - 
+Bad keyword '/m/02tcfg', because The request failed: Google returned a response with code 400
+2024-07-18 16:49:25,433 - INFO - 
+Bad keyword '/m/02qg7dt', because The request failed: Google returned a response with code 400
+2024-07-18 16:49:39,614 - INFO - 
+Bad keyword '/m/036q70', because The request failed: Google returned a response with code 400
+2024-07-18 16:49:49,775 - INFO - 
+Bad keyword '/m/04vk5_', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:04,961 - INFO - 
+Bad keyword '/m/09fvf7', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:15,180 - INFO - 
+Bad keyword '/m/025strv', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:19,384 - INFO - 
+Bad keyword '/m/08k4nr', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:36,545 - INFO - 
+Bad keyword '/m/0gx455', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:38,692 - INFO - 
+Bad keyword '/m/09jpb7', because The request failed: Google returned a response with code 400
+2024-07-18 16:50:57,839 - INFO - 
+Bad keyword '/m/02vkxl4', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:00,902 - INFO - 
+Bad keyword '/m/0h3rf2j', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:13,962 - INFO - 
+Bad keyword '/m/09m43s', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:23,031 - INFO - 
+Bad keyword '/m/04fzqn3', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:27,116 - INFO - 
+Bad keyword '/m/0bm43t', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:30,271 - INFO - 
+Bad keyword '/m/05gzbw', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:32,422 - INFO - 
+Bad keyword '/m/07v9kf', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:41,490 - INFO - 
+Bad keyword '/m/026spzd', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:49,664 - INFO - 
+Bad keyword '/m/0d2xmz', because The request failed: Google returned a response with code 400
+2024-07-18 16:51:51,906 - INFO - 
+Bad keyword '/m/09xf66', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:12,977 - INFO - 
+Bad keyword '/m/06w6jx', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:19,042 - INFO - 
+Bad keyword '/m/08d_8c', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:28,219 - INFO - 
+Bad keyword '/m/02z6r57', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:34,379 - INFO - 
+Bad keyword '/m/04y495', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:51,433 - INFO - 
+Bad keyword '/m/06mqq7', because The request failed: Google returned a response with code 400
+2024-07-18 16:52:56,591 - INFO - 
+Bad keyword '/m/07phf8', because The request failed: Google returned a response with code 400
+2024-07-18 16:53:16,659 - INFO - 
+Bad keyword '/m/044z23', because The request failed: Google returned a response with code 400
+2024-07-18 16:53:24,720 - INFO - 
+Bad keyword '/m/06vg_j', because The request failed: Google returned a response with code 400
+2024-07-18 16:53:40,874 - INFO - 
+Bad keyword '/m/0dxqz7', because The request failed: Google returned a response with code 400
+2024-07-18 16:53:51,029 - INFO - 
+Bad keyword '/m/018_z5', because The request failed: Google returned a response with code 400
+2024-07-18 16:54:04,103 - INFO - 
+Bad keyword '/m/04_bbx', because The request failed: Google returned a response with code 400
+2024-07-18 16:54:11,167 - INFO - 
+Bad keyword '/m/02rj599', because The request failed: Google returned a response with code 400
+2024-07-18 16:54:32,224 - INFO - 
+Bad keyword '/m/0dfxdrn', because The request failed: Google returned a response with code 400
+2024-07-18 16:54:53,348 - INFO - 
+Bad keyword '/m/02cxsh', because The request failed: Google returned a response with code 400
+2024-07-18 16:54:58,414 - INFO - 
+Bad keyword '/m/0465khx', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:05,563 - INFO - 
+Bad keyword '/m/0c8995', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:16,705 - INFO - 
+Bad keyword '/m/026xlyl', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:21,897 - INFO - 
+Bad keyword '/m/03m3q7q', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:42,042 - INFO - 
+Bad keyword '/m/0b97cn', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:44,198 - INFO - 
+Bad keyword '/m/0cp2dk', because The request failed: Google returned a response with code 400
+2024-07-18 16:55:55,356 - INFO - 
+Bad keyword '/m/043b0s', because The request failed: Google returned a response with code 400
+2024-07-18 16:56:15,549 - INFO - 
+Bad keyword '/m/05h08', because The request failed: Google returned a response with code 400
+2024-07-18 16:56:29,612 - INFO - 
+Bad keyword '/m/09tj9h', because The request failed: Google returned a response with code 400
+2024-07-18 16:56:43,687 - INFO - 
+Bad keyword '/m/02vhd1', because The request failed: Google returned a response with code 400
+2024-07-18 16:56:51,846 - INFO - 
+Bad keyword '/m/04dmqd', because The request failed: Google returned a response with code 400
+2024-07-18 16:56:55,910 - INFO - 
+Bad keyword '/m/07fs28', because The request failed: Google returned a response with code 400
+2024-07-18 16:57:15,975 - INFO - 
+Bad keyword '/m/0clcc9', because The request failed: Google returned a response with code 400
+2024-07-18 16:57:25,127 - INFO - 
+Bad keyword '/m/025s71b', because The request failed: Google returned a response with code 400
+2024-07-18 16:57:30,189 - INFO - 
+Bad keyword '/m/05f_dx', because The request failed: Google returned a response with code 400
+2024-07-18 16:57:41,272 - INFO - 
+Bad keyword '/m/08bk3g', because The request failed: Google returned a response with code 400
+2024-07-18 16:58:02,345 - INFO - 
+Bad keyword '/m/06ykxz', because The request failed: Google returned a response with code 400
+2024-07-18 16:58:07,497 - INFO - 
+Bad keyword '/m/05hbp4', because The request failed: Google returned a response with code 400
+2024-07-18 16:58:27,658 - INFO - 
+Bad keyword '/m/05hxz3p', because The request failed: Google returned a response with code 400
+2024-07-18 16:58:30,726 - INFO - 
+Bad keyword '/m/02x0nwz', because The request failed: Google returned a response with code 400
+2024-07-18 16:58:43,795 - INFO - 
+Bad keyword '/m/09nn_9', because The request failed: Google returned a response with code 400
+2024-07-18 16:59:02,947 - INFO - 
+Bad keyword '/m/05hd1m', because The request failed: Google returned a response with code 400
+2024-07-18 16:59:18,111 - INFO - 
+Bad keyword '/m/03h2_5j', because The request failed: Google returned a response with code 400
+2024-07-18 16:59:31,267 - INFO - 
+Bad keyword '/m/058bdz', because The request failed: Google returned a response with code 400
+2024-07-18 16:59:35,433 - INFO - 
+Bad keyword '/m/027c5z0', because The request failed: Google returned a response with code 400
+2024-07-18 16:59:53,495 - INFO - 
+Bad keyword '/m/02jy0y', because The request failed: Google returned a response with code 400
+2024-07-18 17:00:05,665 - INFO - 
+Bad keyword '/m/02l11j', because The request failed: Google returned a response with code 400
+2024-07-18 17:00:07,824 - INFO - 
+Bad keyword '/m/080jwwr', because The request failed: Google returned a response with code 400
+2024-07-18 17:00:23,279 - INFO - 
+Bad keyword '/m/09bplz', because The request failed: Google returned a response with code 400
+2024-07-18 17:00:40,482 - INFO - 
+Bad keyword '/m/0dj2h6', because The request failed: Google returned a response with code 400
+2024-07-18 17:00:45,634 - INFO - 
+Bad keyword '/m/045qt3', because The request failed: Google returned a response with code 400
+2024-07-18 17:01:00,801 - INFO - 
+Bad keyword '/m/0169z3', because The request failed: Google returned a response with code 400
+2024-07-18 17:01:13,966 - INFO - 
+Bad keyword '/m/0h1jd8', because The request failed: Google returned a response with code 400
+2024-07-18 17:01:30,037 - INFO - 
+Bad keyword '/m/0f9p0f', because The request failed: Google returned a response with code 400
+2024-07-18 17:01:36,094 - INFO - 
+Bad keyword '/m/09q0x0', because The request failed: Google returned a response with code 400
