@@ -959,3 +959,53 @@ Bad keyword '/m/0h1jd8', because The request failed: Google returned a response 
 Bad keyword '/m/0f9p0f', because The request failed: Google returned a response with code 400
 2024-07-18 17:01:36,094 - INFO - 
 Bad keyword '/m/09q0x0', because The request failed: Google returned a response with code 400
+2024-07-26 10:20:40,297 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:20:40,297 - INFO - Using directory 'summer'
+2024-07-26 10:20:40,629 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:20:40,629 - INFO - loading core...takes a moment
+2024-07-26 10:20:40,629 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:20:40,629 - INFO - Using directory 'summer'
+2024-07-26 10:20:40,928 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:20:40,928 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-26 10:20:41,109 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-26 10:20:41,109 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-26 10:20:41,111 - INFO - 95/568 keyword candidates found in cache, 473 still to check.
+2024-07-26 10:20:41,111 - INFO - Sampling keywords...
+2024-07-26 10:20:58,629 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:20:58,629 - INFO - Using directory 'summer'
+2024-07-26 10:20:58,940 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:20:58,941 - INFO - loading core...takes a moment
+2024-07-26 10:20:58,941 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:20:58,941 - INFO - Using directory 'summer'
+2024-07-26 10:20:59,137 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:20:59,137 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-26 10:20:59,278 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-26 10:20:59,278 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-26 10:20:59,278 - INFO - 95/568 keyword candidates found in cache, 473 still to check.
+2024-07-26 10:20:59,278 - INFO - Sampling keywords...
+2024-07-26 10:21:18,476 - INFO - 
+Bad keyword '/m/026pc21', because The request failed: Google returned a response with code 400
+2024-07-26 10:21:30,543 - INFO - 
+Bad keyword '/m/0g07j', because The request failed: Google returned a response with code 400
+2024-07-26 10:21:32,705 - INFO - 
+Bad keyword '/m/05zb4', because The request failed: Google returned a response with code 400
+2024-07-26 10:21:37,871 - INFO - 
+Bad keyword '/m/0jly1', because The request failed: Google returned a response with code 400
+2024-07-26 10:23:26,306 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:23:26,307 - INFO - Using directory 'summer'
+2024-07-26 10:23:26,591 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:23:26,592 - INFO - loading core...takes a moment
+2024-07-26 10:23:26,592 - INFO - Directory already exists, loading data from it.
+2024-07-26 10:23:26,592 - INFO - Using directory 'summer'
+2024-07-26 10:23:26,715 - INFO - Active anchorbank changed to: google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+
+2024-07-26 10:23:26,715 - INFO - gtab range from 2024-06-14 to 2024-07-14
+2024-07-26 10:23:26,769 - INFO - Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+2024-07-26 10:23:26,769 - INFO - Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+2024-07-26 10:23:26,771 - INFO - 95/568 keyword candidates found in cache, 473 still to check.
+2024-07-26 10:23:26,771 - INFO - Sampling keywords...

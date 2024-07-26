@@ -861,3 +861,29 @@ Bad keyword '/m/09nn_9', because The request failed: Google returned a response 
 Bad keyword '/m/05hd1m', because The request failed: Google returned a response with code 400
 
 Bad keyword '/m/03h2_5j', because The request failed: Google returned a response with code 400
+
+2024-07-26 10:20:41.108947
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+95/568 keyword candidates found in cache, 473 still to check.
+Sampling keywords...
+
+2024-07-26 10:20:59.278038
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+95/568 keyword candidates found in cache, 473 still to check.
+Sampling keywords...
+
+Bad keyword '/m/026pc21', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0g07j', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/05zb4', because The request failed: Google returned a response with code 400
+
+Bad keyword '/m/0jly1', because The request failed: Google returned a response with code 400
+
+2024-07-26 10:23:26.769155
+Start AnchorBank init for region US in timeframe 2024-06-14 2024-07-14...
+Loading previously checked keywords from summer/data/internal/google_keywords/intermediate_google_keywords_geo=US_timeframe=2024-06-14 2024-07-14.pkl.
+95/568 keyword candidates found in cache, 473 still to check.
+Sampling keywords...
